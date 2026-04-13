@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.idea/
+.serena/
+.claude/
+node_modules/
+.env
+*.egg-info/
+dist/
+build/
+.next/
+nul
+
+# Runtime data (sessions, memory logs)
+backend/sessions/
+backend/memory/
+backend/config.json
+
+# Reference code (not part of this project)
+nanobot/
