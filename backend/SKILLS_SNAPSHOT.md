@@ -4,4 +4,29 @@
     <description>查询指定城市的实时天气信息</description>
     <location>./skills/get_weather/SKILL.md</location>
   </skill>
+  <skill>
+    <name>xhs-auth</name>
+    <description>小红书认证管理技能。检查登录状态、登录（二维码或手机号）、多账号管理。当用户要求登录小红书、检查登录状态、切换账号时触发。</description>
+    <location>./skills/xhs-auth/SKILL.md</location>
+  </skill>
+  <skill>
+    <name>xhs-content-ops</name>
+    <description>|</description>
+    <location>./skills/xhs-content-ops/SKILL.md</location>
+  </skill>
+  <skill>
+    <name>xhs-explore</name>
+    <description>|</description>
+    <location>./skills/xhs-explore/SKILL.md</location>
+  </skill>
+  <skill>
+    <name>xhs-interact</name>
+    <description>|</description>
+    <location>./skills/xhs-interact/SKILL.md</location>
+  </skill>
+  <skill>
+    <name>xhs-publish</name>
+    <description>|</description>
+    <location>./skills/xhs-publish/SKILL.md</location>
+  </skill>
 </available_skills>

@@ -285,7 +285,7 @@ class ProviderSpec:
 
 - 浅色 Apple 风格 (Frosty Glass)，背景 #fafafa，毛玻璃效果
 - 强调色：克莱因蓝
-- 导航栏左侧："mini OpenClaw"，右侧：GitHub 仓库链接 (https://github.com/hfhfn)
+- 导航栏左侧："mini OpenClaw"，右侧：GitHub 仓库链接 (https://github.com/ms-alan)
 
 ---
 

@@ -11,7 +11,7 @@ export default function Navbar() {
       </div>
       <div className="flex items-center gap-4">
         <Link
-          href="https://github.com/hfhfn"
+          href="https://github.com/ms-alan"
           target="_blank"
           className="text-sm text-gray-500 hover:text-gray-800 transition-colors flex items-center gap-1"
         >

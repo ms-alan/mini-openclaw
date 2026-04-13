@@ -2293,7 +2293,7 @@ cd frontend
 npx shadcn-ui@latest init
 ```
 
-**Step 2:** Build Navbar with "mini OpenClaw" on left, GitHub link (https://github.com/hfhfn) on right. Apple frosty glass style. Configure Tailwind with Klein Blue accent color.
+**Step 2:** Build Navbar with "mini OpenClaw" on left, GitHub link (https://github.com/ms-aln) on right. Apple frosty glass style. Configure Tailwind with Klein Blue accent color.
 
 ```bash
 git commit -m "feat: Next.js scaffold with Navbar and Apple glass theme"
