@@ -1,5 +1,3 @@
-# Mini-OpenClaw 中文翻译
-
 # Mini-OpenClaw
 
 > 一个实操性的人工智能智能体教学与研究项目——通过研究 OpenClaw 架构，从零构建一个高性能的智能体。
